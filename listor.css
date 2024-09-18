@@ -1,0 +1,13 @@
+body {
+    border: 1px blue;
+    border-style: solid;
+}
+
+h1 {
+    background-color: yellow;
+}
+
+h2 {
+    background-color: cyan;
+}
+
